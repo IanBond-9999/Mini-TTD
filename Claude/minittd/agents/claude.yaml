@@ -1,0 +1,5 @@
+interface:
+  display_name: "MiniTTD"
+  short_description: "Roblox 最小可验证改动流程"
+  icon_small: "./assets/minittd-small.png"
+  icon_large: "./assets/minittd-large.png"
